@@ -1,12 +1,11 @@
-## Having Fun with Timers and Clickables for P5.js
-#### by joshua wilder oakley
+## RONNIE SAINI BUTTONS AND TIMER 
 
 
 
 ### Overview
-This is a totally silly and completely ridiculous example using countdown timers and Clickables from the https://github.com/Lartu/p5.clickable library.
+USING WHAT we have learned about buttons a timers in p5 js maek a program that uses them.
 
 
 ### Technical Details
 
-Have Fun!
+Includes the timer library and used the p5 refrence site and timer library refrence site.
