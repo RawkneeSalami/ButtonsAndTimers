@@ -1,12 +1,14 @@
 //RONNIE SAINI
 
-// @ of these variables are used for timers and
+// 2 of these variables are used for timers and
 var countdown1,but1,yInc = 250,yStrt = 20,txt = 50,bttnY = 500,bttnX = 1200,posX = 0,clickImg,waitForClick = true;
 
+//loading the end image before the page
 function preload(){
   clickImg = loadImage('assets/rocket1.jpg');
 }
 
+//setting up the screen resolution and the buttons and the functionality.
 function setup() {
   createCanvas(windowWidth, windowHeight);
   imageMode(CENTER);
@@ -33,7 +35,7 @@ but1.onPress = function() {
  
 }
 }
-
+// now drawing each time the buttons and counters when pressed
 function draw() {
   background('#8E0EE7');
   if(waitForClick) {
