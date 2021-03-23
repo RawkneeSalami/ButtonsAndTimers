@@ -3,7 +3,7 @@
 
 
 ### Overview
-USING WHAT we have learned about buttons a timers in p5 js maek a program that uses them.
+USING WHAT we have learned about buttons a timers in p5 js make a program that uses them.
 
 
 ### Technical Details
